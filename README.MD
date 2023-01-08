@@ -5,17 +5,12 @@
 
 ## نمای کلی:
 
-[![Semantic](https://raw.githubusercontent.com/amir77xj/v2ray-tutorial/main/images/1-semantic.png)](https://raw.githubusercontent.com/masterking32/v2ray-tutorial/main/images/1-semantic.png)
-
-- [پیش نیازها](https://github.com/masterking32/v2ray-tutorial#%D9%BE%DB%8C%D8%B4-%D9%86%DB%8C%D8%A7%D8%B2%D9%87%D8%A7)
-- [ویدیو آموزش تصویری](https://www.youtube.com/watch?v=oh6JuHGTi60)
+[![Semantic](https://raw.githubusercontent.com/amir77xj/v2ray-tutorial/main/images/1-semantic.png)](https://raw.githubusercontent.com/amir77xj/v2ray-tutorial/main/images/1-semantic.png)
 
 روش های نصب: 
 
-- [از طریق ابرآروان](https://github.com/masterking32/v2ray-tutorial#%D8%B1%D9%88%D8%B4-%D8%A7%D9%88%D9%84-%D8%A8%D9%87-%DA%A9%D9%85%DA%A9-%D8%A7%D8%A8%D8%B1%D8%A2%D8%B1%D9%88%D8%A7%D9%86)
-- [از طریق سرور مجازی ایران](https://github.com/masterking32/v2ray-tutorial#%D8%B1%D9%88%D8%B4-%D8%AF%D9%88%D9%85-%D8%A8%D9%87-%DA%A9%D9%85%DA%A9-%D8%B3%D8%B1%D9%88%D8%B1-%D9%85%D8%AC%D8%A7%D8%B2%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86)
-
------------
+- [از طریق ابرآروان]
+- [از طریق سرور مجازی ایران]
 
 ## پیش نیازها
 - یک عدد سرور مجازی خارج از ایران
@@ -31,23 +26,23 @@
 - دامنه خود رو در بخش CDN ثبت کنید.
 - وارد پنل دامنه خود شده و از منوی سمت چپ وارد بخش تنظیمات HTTPS شوید و گزینه "فعال سازی HTTPS" را فعال کنید.
 
-[![ActiveHTTPS](https://raw.githubusercontent.com/masterking32/v2ray-tutorial/main/images/2-arvan-https-active.png)](https://raw.githubusercontent.com/masterking32/v2ray-tutorial/main/images/2-arvan-https-active.png)
+[![ActiveHTTPS](https://raw.githubusercontent.com/amir77xj/v2ray-tutorial/main/images/2-arvan-https-active.png)](https://raw.githubusercontent.com/amir77xj/v2ray-tutorial/main/images/2-arvan-https-active.png)
 
 - حالا به بخش رکوردهای DNS بروید و روی رکورد جدید بزنید.
 - در این بخش در قسمت subdomain یک نام بدهید ما از MyTest استفاده میکنیم.
 - گزینه استفاده از سرویس ابری را خاموش کنید.
 - قسمت نشانی IP، آی پی سرور خارجتان را وارد کنید و در نهایت روی گزینه ذخیره بزنید.
 
-[![Active New Record](https://raw.githubusercontent.com/masterking32/v2ray-tutorial/main/images/3-arvan-newdnsrecord.png)](https://raw.githubusercontent.com/masterking32/v2ray-tutorial/main/images/3-arvan-newdnsrecord.png)
+[![Active New Record](https://raw.githubusercontent.com/amir77xj/v2ray-tutorial/main/images/3-arvan-newdnsrecord.png)](https://raw.githubusercontent.com/amir77xj/v2ray-tutorial/main/images/3-arvan-newdnsrecord.png)
 
-- حال به بخش [آموزش نصب X-UI](https://github.com/masterking32/v2ray-tutorial#%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%86%D8%B5%D8%A8-x-ui) بروید و پس از انجام مراحل به این بخش بگردید و ادامه این آموزش را انجام دهید.
-- [یک VMESS و کاربر جدید بسازید.](https://github.com/masterking32/v2ray-tutorial#%D8%B3%D8%A7%D8%AE%D8%AA-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1-%D8%AC%D8%AF%DB%8C%D8%AF)
-- [تنظیمات NGINX را انجام دهید](https://github.com/masterking32/v2ray-tutorial#%D9%BE%DB%8C%DA%A9%D8%B1%D8%A8%D9%86%D8%AF%DB%8C-%D9%88-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-Nginx-%D8%AF%D8%B1-%D8%B3%D8%B1%D9%88%D8%B1-%D9%85%D8%AC%D8%A7%D8%B2%DB%8C-%D8%AE%D8%A7%D8%B1%D8%AC)
+- حال به بخش [آموزش نصب X-UI] بروید و پس از انجام مراحل به این بخش بگردید و ادامه این آموزش را انجام دهید.
+- [یک VMESS و کاربر جدید بسازید.]
+- [تنظیمات NGINX را انجام دهید]
 - پس از نصب X-UI و سپس ساخت کاربر جدید و تنظیم Nginx ادامه این آموزش را دنبال کنید.
 - به پنل ابرآروانتان رفته و سپس در بخش دامنه مربوطه روی گزینه رکوردهای DNS بزنید.
 - سپس زیردامنه ای که ساختید را پیدا کنید و گزینه استفاده از سرویس ابری را فعال کنید.
 
-[![Enable Cloud ArvanCloud](https://raw.githubusercontent.com/masterking32/v2ray-tutorial/main/images/6-arvan-enablecloud.png)](https://raw.githubusercontent.com/masterking32/v2ray-tutorial/main/images/6-arvan-enablecloud.png)
+[![Enable Cloud ArvanCloud](https://raw.githubusercontent.com/amir77xj/v2ray-tutorial/main/images/6-arvan-enablecloud.png)](https://raw.githubusercontent.com/amir77xj/v2ray-tutorial/main/images/6-arvan-enablecloud.png)
 
 - کمی بین 5 تا 30 دقیقه صبر کنید.
 - در v2ray client های خود مثل ویندوز و ... بعد از وارد کردن QRCode آنها را ویرایش کنید و Port را به 443 تغییر دهید.
@@ -69,16 +64,16 @@
 - گزینه Proxy غیرفعال و روی DNS Only باشد.
 - در قسمت IPv4 Address، آی پی سرور خارجتان را وارد کنید و روی گزینه Save بزنید.
 
-[![New DNS Cloudflare](https://raw.githubusercontent.com/masterking32/v2ray-tutorial/main/images/7-cloudflare-newdns.png)](https://raw.githubusercontent.com/masterking32/v2ray-tutorial/main/images/7-cloudflare-newdns.png)
+[![New DNS Cloudflare](https://raw.githubusercontent.com/amir77xj/v2ray-tutorial/main/images/7-cloudflare-newdns.png)](https://raw.githubusercontent.com/amir77xj/v2ray-tutorial/main/images/7-cloudflare-newdns.png)
 
-- حال به بخش [آموزش نصب X-UI](https://github.com/masterking32/v2ray-tutorial#%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%86%D8%B5%D8%A8-x-ui) بروید و پس از انجام مراحل به این بخش بگردید و ادامه این آموزش را انجام دهید.
-- [یک VMESS و کاربر جدید بسازید.](https://github.com/masterking32/v2ray-tutorial#%D8%B3%D8%A7%D8%AE%D8%AA-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1-%D8%AC%D8%AF%DB%8C%D8%AF)
-- [تنظیمات NGINX را انجام دهید](https://github.com/masterking32/v2ray-tutorial#%D9%BE%DB%8C%DA%A9%D8%B1%D8%A8%D9%86%D8%AF%DB%8C-%D9%88-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-Nginx-%D8%AF%D8%B1-%D8%B3%D8%B1%D9%88%D8%B1-%D9%85%D8%AC%D8%A7%D8%B2%DB%8C-%D8%AE%D8%A7%D8%B1%D8%AC)
+- حال به بخش [آموزش نصب X-UI] بروید و پس از انجام مراحل به این بخش بگردید و ادامه این آموزش را انجام دهید.
+- [یک VMESS و کاربر جدید بسازید.]
+- [تنظیمات NGINX را انجام دهید]
 - پس از نصب X-UI و سپس ساخت کاربر جدید و تنظیم Nginx ادامه این آموزش را دنبال کنید.
 - حال مجدد به بخش DNS Records در Cloudflare بروید و روی Add Record بزنید.
 - اینبار هم یک نام انتخاب کنید، گزینه Proxy غیرفعال باشد و آی پی سرور ایران را وارد کنید. اینجا ما از نام irserver استفاده کردیم. (irserver.site.com)
 
-[![New DNS Cloudflare](https://raw.githubusercontent.com/masterking32/v2ray-tutorial/main/images/7-cloudflare-newdns2.png)](https://raw.githubusercontent.com/masterking32/v2ray-tutorial/main/images/7-cloudflare-newdns2.png)
+[![New DNS Cloudflare](https://raw.githubusercontent.com/amir77xj/v2ray-tutorial/main/images/7-cloudflare-newdns2.png)](https://raw.githubusercontent.com/amir77xj/v2ray-tutorial/main/images/7-cloudflare-newdns2.png)
 
 - دیگر با Cloudflare کاری نداریم و ادامه آموزش را در بخش پیکربندی سرور ایران دنبال میکنیم.
 
@@ -276,7 +271,7 @@ service nginx start
 - حالا در مرورگر آدرس آی پی سرور و پورتی که برای x-ui وارد کردید را بزنید مانند: http://99.99.99.99:9950
 - نام کاربری و رمزعبوری که هنگام نصب وارد کردید را بزنید و روی دکمه Login کلیک کنید و سپس به بخش تنظیمات بروید.
 
-[![XUI SETTINGS](https://raw.githubusercontent.com/masterking32/v2ray-tutorial/main/images/4-xui-settings.png)](https://raw.githubusercontent.com/masterking32/v2ray-tutorial/main/images/4-xui-settings.png)
+[![XUI SETTINGS](https://raw.githubusercontent.com/amir77xj/v2ray-tutorial/main/images/4-xui-settings.png)](https://raw.githubusercontent.com/amir77xj/v2ray-tutorial/main/images/4-xui-settings.png)
 
 - در بخش تنظیمات مقادیر را به شکل زیر وارد کنید:
 
@@ -300,7 +295,7 @@ x-ui restart
 
 - در پنل XUI خود روی گزینه Inbounds کلید کرده و روی دکمه + بزنید.
 
-[![XUI New User](https://raw.githubusercontent.com/masterking32/v2ray-tutorial/main/images/5-xui-newuser.png)](https://raw.githubusercontent.com/masterking32/v2ray-tutorial/main/images/5-xui-newuser.png)
+[![XUI New User](https://raw.githubusercontent.com/amir77xj/v2ray-tutorial/main/images/5-xui-newuser.png)](https://raw.githubusercontent.com/amir77xj/v2ray-tutorial/main/images/5-xui-newuser.png)
 
 - مقادیر زیر را انتخاب کنید.
 
